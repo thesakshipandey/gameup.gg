@@ -1,4 +1,4 @@
-# Gameup.gg
+# thesportin
 ## Contributing
 
 ### Setting-up the project
